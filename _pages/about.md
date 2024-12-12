@@ -3,12 +3,15 @@ permalink: /
 title: "About"
 excerpt: "About me"
 author_profile: true
+redirect_to: https://www.vvvasconcelos.net
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 Check my new website: [www.vvvasconcelos.net](https://www.vvvasconcelos.net)
+
+ <!--
 
 "I think the next [21st] century will be the century of <i>Complexity</i>," [said](https://nl.newsbank.com/nl-search/we/Archives?p_product=SJ&p_theme=sj&p_action=search&p_maxdocs=200&s_dispstring=allfields(stephen)%20AND%20date(1/23/2000%20to%201/23/2000)&p_field_date-0=YMD_date&p_params_date-0=date:B,E&p_text_date-0=1/23/2000%20to%201/23/2000&p_text_advanced-0=(%22stephen%22)&xcal_numdocs=20&p_perpage=10&p_sort=YMD_date:D&xcal_useweights=no) Stephen Hawking, anticipating the way science is developing. In this era of Complexity, I seek to explore the interconnectedness among and emergent properties of complex systems, which play a crucial role in our world yet are challenging to manage. From climate change to global misinformation, our collective inability to manage these systems results in a multitude of systemic crises.
 
@@ -98,3 +101,4 @@ To different degrees, RE and FF energy industries deeply influence natural syste
 In response to these challenges, we propose to integrate a cross-disciplinary exploration involving political science, other applied social and behavioral science, and environmental science.  Our purpose is to expand and deepen our understanding of pathways to decarbonization supported by users, while understanding the impact in human populations and in their use of natural resources.
 
 This work is just happening, and I count with the collaboration of an increadibly diverse team. But see my class on this topic, "Rapid Switch: The Energy Transition Challenge to a Low-carbon Future", which I developed with an interdisciplinary team of scientists.
+-->
